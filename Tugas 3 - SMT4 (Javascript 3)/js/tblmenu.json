@@ -1,0 +1,42 @@
+[
+    {
+        "idmenu": 2,
+        "idkategori": 2,
+        "menu": "Es Teh",
+        "harga": 2500,
+        "rasa": [
+            "leci",
+            "lemon",
+            "jasmine"
+        ],
+        "stok": true,
+        "keterangan": null
+    },
+    {
+        "idmenu": 4,
+        "idkategori": 4,
+        "menu": "Pancake",
+        "harga": 7000,
+        "rasa": [
+            "coklat",
+            "keju",
+            "kacang",
+            "vanilla"
+        ],
+        "stok": false,
+        "keterangan": null
+    },
+    {
+        "idmenu": 15,
+        "idkategori": 5,
+        "menu": "Jamur Krispi",
+        "harga": 6000,
+        "rasa": [
+            "BBQ",
+            "Keju",
+            "Balado"
+        ],
+        "stok": true,
+        "keterangan": null
+    }
+]
