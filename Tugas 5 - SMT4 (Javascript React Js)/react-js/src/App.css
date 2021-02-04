@@ -1,0 +1,25 @@
+li{
+  list-style: none;
+}
+
+ul{
+  background-color: #273746 ;
+}
+
+p{
+  font-size: 40px;
+  font-weight: 400;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: 500;
+}
+
+button{
+  margin: 7px;
+}
+
+nav ul{
+  margin: 15px;
+}
